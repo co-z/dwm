@@ -2,7 +2,8 @@
 # dwm
 co-z's build of dwm.
 
-# Install 
+# install :
+https://dwm.suckless.org/
 ```bash
 cd ~/.config
 mkdir ~/.config/dwm
@@ -10,7 +11,9 @@ git clone https://github.com/co-z/dwm
 cd dwm
 sudo make clean install
 ```
-# Patches:
+# patches:
+https://dwm.suckless.org/patches/
+```
 toggle fullscreen
 rounded corners
 scratchpad
@@ -30,7 +33,7 @@ gapless grid
 horizontal
 bartag icons
 fibonacci
-monocole
 deck
 nrow grid
 xrdb
+```
